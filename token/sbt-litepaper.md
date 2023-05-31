@@ -165,3 +165,20 @@ Members may not want some of the data stored in SBTs to be available to the publ
 ## 6. Legal Considerations
 
 OMA3 is fully aware of the regulatory environment and recent enforcement actions against several Web3 projects.  Design and implementation of this OMA3 token architecture may need to change based on the resolution of these actions or guidance given by regulatory agencies and legislative bodies.  However, OMA3 believes in the value this token architecture brings to both OMA3 and the Web3 metaverse as a whole.  We are committed to realizing this value in a regulatory compliant manner.
+
+## Authors
+
+### Mohamed Ezeldin
+![Animoca Brands](https://www.animocabrands.com), Tokenomics Team Lead
+OMA3, Token Working Group Chair
+
+
+### Jerry Lai
+![Animoca Brands](https://www.animocabrands.com), Tokenonics Team
+OMA3, Token Working Group Vice Chair
+
+
+### Alfred Tom
+![Wivity](https://www.wivity.com), CEO
+OMA3, Acting Executive Director
+
