@@ -169,16 +169,16 @@ OMA3 is fully aware of the regulatory environment and recent enforcement actions
 ## Authors
 
 ### Mohamed Ezeldin
-![Animoca Brands](https://www.animocabrands.com), Tokenomics Team Lead
+[Animoca Brands](https://www.animocabrands.com), Tokenomics Team Lead
 OMA3, Token Working Group Chair
 
 
 ### Jerry Lai
-![Animoca Brands](https://www.animocabrands.com), Tokenonics Team
+[Animoca Brands](https://www.animocabrands.com), Tokenonics Team
 OMA3, Token Working Group Vice Chair
 
 
 ### Alfred Tom
-![Wivity](https://www.wivity.com), CEO
+[Wivity](https://www.wivity.com), CEO
 OMA3, Acting Executive Director
 
