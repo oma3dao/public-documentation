@@ -96,7 +96,7 @@ An OMA SBT stores the following data (see Figure 1):
     * Fees for using OMA3 infrastructure
 
 ![Figure 1](https://github.com/oma3dao/public-documentation/blob/main/token/diagram-1.png)
-Figure 1: Soulbound Token Usage
+**Figure 1: Soulbound Token Usage**
 
 ## 4. Bounty System
 
@@ -121,7 +121,7 @@ Board Bounties are initially awarded by the Board.  The Board takes into account
 Working Group Bounties are decided by a vote in working groups, but the vote must also be ratified by the Board.  
 
 ![Figure 2](https://github.com/oma3dao/public-documentation/blob/main/token/diagram-2.png)
-Figure 2: Bounty Process
+**Figure 2: Bounty Process**
 
 ## 5. Allocation of OMA3 Benefits
 
