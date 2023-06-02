@@ -182,3 +182,11 @@ OMA3 is fully aware of the regulatory environment and recent enforcement actions
 **[Wivity](https://www.wivity.com)**, CEO  
 **OMA3**, Acting Executive Director
 
+## About OMA3
+[www.oma3.org](https://www.oma3.org)   
+[@oma3dao](https://www.twitter.com/oma3dao)   
+[https://www.linkedin.com/company/oma3/](https://www.linkedin.com/company/oma3/)   
+
+## Public Comments
+Create an issue on Github:  [https://github.com/oma3dao/public-documentation/](https://github.com/oma3dao/public-documentation/)   
+Comment in [Google Docs](https://docs.google.com/document/d/1z6nI7sHTbK5_8Y43xEuoy21kg3ZikcKwJopagSzb4ko/)    
