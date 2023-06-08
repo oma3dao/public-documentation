@@ -1,6 +1,4 @@
-# public-documentation
-
-This repository contains publicly available documentation of OMA3.
+# sbt-litepaper
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
