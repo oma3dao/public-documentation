@@ -1,6 +1,6 @@
 # sbt-litepaper
 
-Please comment on the paper by [creating an issue](https://github.com/oma3dao/sbt-litepaper/issues/new) or commenting in the [Google Doc](https://docs.google.com/document/d/1z6nI7sHTbK5_8Y43xEuoy21kg3ZikcKwJopagSzb4ko/).  If you would like to contribute to this project, [join OMA3](https://www.oma3.org/join) and participate in the OMA3 Token Working Group.
+This repository is not deprecated in favor of the [Token Litepaper](https://github.com/oma3dao/sbt-litepaper/blob/main/README.md), which introduces a fungible token to compliment the soulbound token
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
