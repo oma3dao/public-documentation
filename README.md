@@ -1,6 +1,6 @@
 # sbt-litepaper
 
-This repository is now deprecated in favor of the [Token Litepaper](https://github.com/oma3dao/sbt-litepaper/blob/main/README.md), which introduces a fungible token to compliment the soulbound token
+This repository is now deprecated in favor of the [Token Litepaper](https://github.com/oma3dao/token-litepaper), which introduces a fungible token to compliment the soulbound token
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
